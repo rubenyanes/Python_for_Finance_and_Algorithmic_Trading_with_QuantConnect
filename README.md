@@ -1,1 +1,3 @@
-# Python_for_Finance_and_Algorithmic_Trading_with_QuantConnect
+# Python for Finance and Algorithmic Trading with QuantConnect
+
+Repositoy of the course Python for Finance and Algorithmic Trading with the platform QuantConnect
